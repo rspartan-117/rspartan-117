@@ -1,10 +1,6 @@
 <h1 align="center">👋 Hi there! I'm Ritik Sharma</h1>
 <h2 align="center">Backend Engineer</h2>
 <h3 align="center">Founding Engineer at a Web3 AI startup building scalable AI platforms and distributed backend systems.</h3>
-<p align="center">
-⚠️ This is my old GitHub account.  
-My active account: <a href="https://github.com/ritik-M0">github.com/ritik-M0</a>
-</p>
 
 ---
 
